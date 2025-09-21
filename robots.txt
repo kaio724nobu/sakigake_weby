@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Update this to your production sitemap URL
-Sitemap: https://kaio724nobu.github.io/weby-sakigake/sitemap.xml
